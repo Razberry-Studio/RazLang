@@ -1,0 +1,3 @@
+def = (abc = 123) + 300
+
+print(abc / def)
