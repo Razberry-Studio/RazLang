@@ -9,10 +9,9 @@ Product Purpose
 
 Raz Lang Is Lightweight And Efficient!!
 
-It also supports a product archetyping system, for creating similar products
-efficiently.
+It also supports a easy to learn syntax similar to that of ruby and python
 
-Raz
+Raz Lang
 ------
 
 Raz Lang is an Open Source Dynamic Programming Language built from Rust Code, This Project Is Extremly Ealry In Development
