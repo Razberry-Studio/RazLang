@@ -14,7 +14,7 @@ It also supports a easy to learn syntax similar to that of ruby and python
 Raz Lang
 ------
 
-Raz Lang is an Open Source Dynamic Programming Language built from Rust Code, This Project Is Extremly Ealry In Development
+Raz Lang is an Open Source Dynamic Programming Language built from Rust Code, This Project Is Extremly Early In Development
 
 
 
