@@ -17,8 +17,15 @@ Raz Lang
 Raz Lang is an Open Source Dynamic Programming Language built from Rust Code, This Project Is Extremly Early In Development
 
 
+HOW TO RUN
+----------
+Downloas the source files and Execute The Following Command
 
-Follow Raz's Development
+cargo run --release -- ./examples/"Insert File Name".raz
+
+Put Your .raz Project within the examples folder
+
+Follow Razberry Studios Development
 --------------------------
 
 If you want to keep up with the updates and latest features, follow us on github for further updates!!!
