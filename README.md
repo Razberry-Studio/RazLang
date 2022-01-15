@@ -39,7 +39,7 @@ If you have found bug, please create an issue.
 Authors
 -------
 
-Razubi
+Razubi, Oselve 
 
 
 
@@ -47,3 +47,5 @@ BENCHMARK
 ---------------
 
 [log.txt](https://github.com/Razberry-Studio/Raz/files/7738850/log.txt)
+
+@Razberry Studios
