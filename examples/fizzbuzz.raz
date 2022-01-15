@@ -1,0 +1,19 @@
+# Epic Fizzbuzz program
+
+fn fizzbuzz(from, to)
+    i = from
+    while i <= to
+        print(
+            if i % 15 == 0
+                "FizzBuzz"
+            else:if i % 3 == 0
+                "Fizz"
+            else:if i % 5 == 0
+                "Buzz"
+            else: i
+        )
+        i = i + 1
+    end
+end
+
+fizzbuzz(1, 30)

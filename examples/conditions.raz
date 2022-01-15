@@ -1,0 +1,8 @@
+a = 3
+b = 4
+if a * b + 5 != 18
+    print("Number is less than 17")
+else
+    print("Yep, and the result is:")
+    print(a * b + 5)
+end
