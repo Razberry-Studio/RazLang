@@ -39,7 +39,7 @@ If you have found bug, please create an issue.
 Authors
 -------
 
-Razubi, Oselve 
+Razubi
 
 
 
